@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">029_SD</string>
+    <string name="nombre">NOMBRE</string>
+    <string name="datos">DATOS</string>
+    <string name="buscar">BUSCAR</string>
+    <string name="guardar">GUARDAR</string>
+</resources>
